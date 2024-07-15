@@ -6,7 +6,8 @@ Group members:
 - Yash Maheshwari (ym463)
 
 Repo Contents:
-- 
+- index.jsp
+- logout.jsp
 
 Login Credentials: 
 - username: "admin123", password: "pass123"
