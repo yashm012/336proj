@@ -12,4 +12,3 @@ Repo Contents:
 Login Credentials: 
 - username: "admin123", password: "pass123"
 - username: "rep456", password: "secret456"
-- username: "customer1", password: "user1"
